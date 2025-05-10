@@ -1,0 +1,8 @@
+/.idea
+/.gradle
+/build
+/.kotlin
+/buildSrc/.gradle
+/buildSrc/build
+/buildSrc/.kotlin
+/modules/*/build
